@@ -15,3 +15,6 @@ alias gtecash='gtjs && cd e-cash/';
 ##### NODE VIRTUAL ENV ########
 alias a-venv='. .virtualenv/bin/activate'
 alias d-venv='deactivate_node'
+
+
+alias r-dev='npm run dev'
