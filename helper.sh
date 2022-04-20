@@ -11,6 +11,7 @@ alias gtwk='cd ~/work';
 alias gtprwk='gtwk && cd personal/';
 alias gtjs='gtprwk && cd js-stallions/';
 alias gtecash='gtjs && cd e-cash/';
+alias gtts='gtprwk && cd team-stallion/';
 
 ##### NODE VIRTUAL ENV ########
 alias a-venv='. .virtualenv/bin/activate'
