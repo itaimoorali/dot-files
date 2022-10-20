@@ -13,4 +13,5 @@
 
 [core]
   excludesfile = /Users/taimoorali/.gitignore
+  editor = nano
   
