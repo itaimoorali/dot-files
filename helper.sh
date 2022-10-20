@@ -19,3 +19,7 @@ alias d-venv='deactivate_node'
 
 
 alias r-dev='npm run dev'
+alias r-test="npm run test:unit"
+alias r-test-update="npm run test:unit -- -u"
+
+alias npm-link-ls="npm ls -g --depth=0 --link=true"
